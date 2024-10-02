@@ -1,2 +1,2 @@
 # change-log-automation
-change log automation - socgen learning
+change log automation - socgen learning update
