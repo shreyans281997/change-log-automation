@@ -1,0 +1,16 @@
+{
+  "name": "change-log-automation",
+  "version": "1.0.0",
+  "description": "change log automation - socgen learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "semantic-release": "^24.1.2"
+  }
+}
